@@ -44,7 +44,8 @@ There are no intermediate rewards for other actions or states.
 
 ### Graphical Representation
 
-![WhatsApp Image 2025-03-12 at 07 41 47_8e1203a0](https://github.com/user-attachments/assets/53f1d790-ceda-4dca-925e-8b4bab99fb16)
+![image](https://github.com/user-attachments/assets/92ee0b16-ac4e-4733-b5a1-b2d8e8915b7e)
+
 
 ## PYTHON REPRESENTATION:
 ```
